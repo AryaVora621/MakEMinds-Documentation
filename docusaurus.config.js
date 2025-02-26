@@ -64,7 +64,7 @@ const config = {
       // Replace with your team's social card
       image: 'img/makeminds-social-card.jpg',
       navbar: {
-        title: 'MakEMinds #23786',
+        title: 'MakEMinds',
         logo: {
           alt: 'MakEMinds Logo',
           src: 'img/logo.svg',
@@ -74,10 +74,18 @@ const config = {
             type: 'docSidebar',
             sidebarId: 'tutorialSidebar',
             position: 'left',
-            label: 'Documentation',
+            label: 'Engineering Portfolio',
           },
-          {to: '/docs/about', label: 'About Us', position: 'left'},
-          {to: '/blog', label: 'Team Updates', position: 'left'},
+          {
+            to: '/engineering-process',
+            label: 'Engineering Process',
+            position: 'left'
+          },
+          {
+            to: '/team-info',
+            label: 'Team Information',
+            position: 'left'
+          },
           {
             href: 'https://github.com/AryaVora621/MakEMinds-Documentation',
             label: 'GitHub',
@@ -92,51 +100,30 @@ const config = {
             title: 'Documentation',
             items: [
               {
-                label: 'Getting Started',
-                to: '/docs/intro',
+                label: 'Engineering Portfolio',
+                to: '/docs/team-info',
               },
               {
-                label: 'Engineering Notebook',
-                to: '/docs/category/engineering-notebook',
-              },
-              {
-                label: 'Technical Resources',
-                to: '/docs/category/technical',
+                label: 'Engineering Process',
+                to: '/engineering-process',
               },
             ],
           },
           {
-            title: 'FTC Resources',
+            title: 'Community',
             items: [
               {
                 label: 'FIRST Tech Challenge',
                 href: 'https://www.firstinspires.org/robotics/ftc',
               },
               {
-                label: 'Game Manual',
-                href: 'https://www.firstinspires.org/resource-library/ftc/game-and-season-info',
-              },
-              {
-                label: 'FTC Discord',
-                href: 'https://discord.gg/first-tech-challenge',
-              },
-            ],
-          },
-          {
-            title: 'Connect',
-            items: [
-              {
-                label: 'Team Updates',
-                to: '/blog',
-              },
-              {
-                label: 'GitHub',
+                label: 'Team GitHub',
                 href: 'https://github.com/AryaVora621/MakEMinds-Documentation',
               },
             ],
           },
         ],
-        copyright: `Copyright © ${new Date().getFullYear()} FTC Team 23786 MakEMinds. Built with Docusaurus.`,
+        copyright: `Copyright © ${new Date().getFullYear()} FTC Team 23786 MakEMinds`,
       },
       prism: {
         theme: prismThemes.github,
