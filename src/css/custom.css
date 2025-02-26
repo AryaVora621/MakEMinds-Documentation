@@ -28,3 +28,17 @@
   --ifm-color-primary-lightest: #4fddbf;
   --docusaurus-highlighted-code-line-bg: rgba(0, 0, 0, 0.3);
 }
+
+/* Navbar logo size */
+.navbar__logo img {
+  height: 32px;
+  width: auto;
+}
+
+/* Footer logo size */
+.footer__logo img {
+  height: 50px;
+  width: auto;
+}
+
+/* Favicon will use the same image but browsers will automatically resize it */

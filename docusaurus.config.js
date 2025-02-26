@@ -68,6 +68,9 @@ const config = {
         logo: {
           alt: 'MakEMinds Logo',
           src: 'img/logo.png',
+          srcDark: 'img/logo.png',
+          width: 32,
+          height: 32,
         },
         items: [
           {
