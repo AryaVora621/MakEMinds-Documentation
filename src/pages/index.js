@@ -18,13 +18,8 @@ function HomepageHeader() {
         <div className={styles.buttons}>
           <Link
             className="button button--secondary button--lg"
-            to="/docs/team-info">
-            View Engineering Portfolio 🤖
-          </Link>
-          <Link
-            className="button button--secondary button--lg"
-            to="/engineering-process">
-            Our Process 🛠️
+            to="/docs/intro">
+            View Our Engineering Portfolio 🤖
           </Link>
         </div>
       </div>
@@ -40,28 +35,17 @@ export default function Home() {
       <HomepageHeader />
       <main>
         <div className={styles.mainContent}>
-          <div className="container">
+          <div className="container padding-vert--lg">
             <div className="row">
-              <div className="col col--6">
-                <h2>About Our Team</h2>
-                <p>
-                  We are FTC Team 23786 MakEMinds, a robotics team dedicated to innovation,
-                  learning, and community engagement. Our team combines creativity with
-                  technical expertise to compete in the FIRST Tech Challenge.
-                </p>
-              </div>
-              <div className="col col--6">
-                <h2>CENTERSTAGE 2023-2024</h2>
-                <p>
-                  This season, we're tackling the exciting CENTERSTAGE challenge,
-                  developing innovative solutions for pixel placement and autonomous
-                  navigation.
+              <div className="col col--12 text--center">
+                <h2>Upper Central League, Edison Township, NJ</h2>
+                <p className="hero__subtitle">
+                  "Have fun, raise STEM awareness, and build a robot to do impossible things!"
                 </p>
               </div>
             </div>
           </div>
         </div>
-        <HomepageFeatures />
       </main>
     </Layout>
   );
