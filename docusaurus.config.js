@@ -77,7 +77,7 @@ const config = {
             label: 'Portfolio',
           },
           {
-            to: '/docs/about',
+            to: '/docs/intro',
             label: 'About Us',
             position: 'left',
           },
@@ -119,8 +119,8 @@ const config = {
                 to: '/docs/intro',
               },
               {
-                label: 'About Us',
-                to: '/about',
+                label: 'Robot',
+                to: '/docs/robot/design-process',
               },
             ],
           },

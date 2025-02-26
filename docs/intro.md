@@ -24,7 +24,7 @@ This season, we've expanded our team significantly:
 - 5 FLL teams mentored
 
 ## Quick Links
-- [About Our Team](/docs/about)
+- [About Our Team](/docs/intro)
 - [Robot Development](/docs/robot/design-process)
 - [Programming](/docs/programming/autonomous)
 - [Outreach Initiatives](/docs/outreach/initiatives)
