@@ -35,10 +35,35 @@
   width: auto;
 }
 
-/* Footer logo size */
+/* Footer logo size - make it smaller */
 .footer__logo img {
-  height: 50px;
+  height: 25px;  /* Reduced from 50px to 25px */
   width: auto;
+}
+
+/* Homepage logo size */
+.hero__title img {
+  height: 40px;
+  width: auto;
+}
+
+/* Make sure homepage logo doesn't overflow */
+.hero__title {
+  font-size: 2.5rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 10px;
+}
+
+/* Responsive adjustments */
+@media screen and (max-width: 996px) {
+  .hero__title img {
+    height: 30px;
+  }
+  .footer__logo img {
+    height: 20px;  /* Even smaller on mobile */
+  }
 }
 
 /* Favicon will use the same image but browsers will automatically resize it */
