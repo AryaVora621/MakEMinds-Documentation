@@ -8,6 +8,8 @@
   text-align: center;
   position: relative;
   overflow: hidden;
+  background: linear-gradient(135deg, #1a1a1a 0%, #4a4a4a 100%);
+  color: white;
 }
 
 @media screen and (max-width: 996px) {
@@ -20,4 +22,19 @@
   display: flex;
   align-items: center;
   justify-content: center;
+  gap: 1rem;
+}
+
+.mainContent {
+  padding: 3rem 0;
+}
+
+.mainContent h2 {
+  color: var(--ifm-color-primary);
+  margin-bottom: 1rem;
+}
+
+.mainContent p {
+  font-size: 1.1rem;
+  line-height: 1.6;
 }

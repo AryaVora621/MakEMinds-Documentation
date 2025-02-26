@@ -1,0 +1,23 @@
+.container {
+  padding: 2rem;
+  max-width: 1200px;
+  margin: 0 auto;
+}
+
+.row {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 2rem;
+  margin-bottom: 2rem;
+}
+
+.col {
+  flex: 1;
+  min-width: 300px;
+}
+
+@media screen and (max-width: 996px) {
+  .col {
+    flex: 100%;
+  }
+} 
