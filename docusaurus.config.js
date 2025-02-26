@@ -10,20 +10,20 @@ import {themes as prismThemes} from 'prism-react-renderer';
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: 'My Site',
-  tagline: 'Dinosaurs are cool',
+  title: 'MakEMinds #23786',
+  tagline: 'FTC Robotics Team from Edison High School',
   favicon: 'img/favicon.ico',
 
   // Set the production url of your site here
-  url: 'https://your-docusaurus-site.example.com',
+  url: 'https://mak-e-minds-documentation.vercel.app',
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
   baseUrl: '/',
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
-  organizationName: 'facebook', // Usually your GitHub org/user name.
-  projectName: 'docusaurus', // Usually your repo name.
+  organizationName: 'AryaVora621', // Update this to your GitHub org/user name
+  projectName: 'MakEMinds-Documentation', // Update this to your repo name
 
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
@@ -43,25 +43,13 @@ const config = {
       ({
         docs: {
           sidebarPath: './sidebars.js',
-          // Please change this to your repo.
-          // Remove this to remove the "edit this page" links.
           editUrl:
-            'https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/',
+            'https://github.com/AryaVora621/MakEMinds-Documentation/tree/main/',
         },
         blog: {
           showReadingTime: true,
-          feedOptions: {
-            type: ['rss', 'atom'],
-            xslt: true,
-          },
-          // Please change this to your repo.
-          // Remove this to remove the "edit this page" links.
           editUrl:
-            'https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/',
-          // Useful options to enforce blogging best practices
-          onInlineTags: 'warn',
-          onInlineAuthors: 'warn',
-          onUntruncatedBlogPosts: 'warn',
+            'https://github.com/AryaVora621/MakEMinds-Documentation/tree/main/',
         },
         theme: {
           customCss: './src/css/custom.css',
@@ -73,12 +61,12 @@ const config = {
   themeConfig:
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
-      // Replace with your project's social card
-      image: 'img/docusaurus-social-card.jpg',
+      // Replace with your team's social card
+      image: 'img/makeminds-social-card.jpg',
       navbar: {
-        title: 'My Site',
+        title: 'MakEMinds #23786',
         logo: {
-          alt: 'My Site Logo',
+          alt: 'MakEMinds Logo',
           src: 'img/logo.svg',
         },
         items: [
@@ -86,11 +74,12 @@ const config = {
             type: 'docSidebar',
             sidebarId: 'tutorialSidebar',
             position: 'left',
-            label: 'Tutorial',
+            label: 'Documentation',
           },
-          {to: '/blog', label: 'Blog', position: 'left'},
+          {to: '/docs/about', label: 'About Us', position: 'left'},
+          {to: '/blog', label: 'Team Updates', position: 'left'},
           {
-            href: 'https://github.com/facebook/docusaurus',
+            href: 'https://github.com/AryaVora621/MakEMinds-Documentation',
             label: 'GitHub',
             position: 'right',
           },
@@ -100,46 +89,54 @@ const config = {
         style: 'dark',
         links: [
           {
-            title: 'Docs',
+            title: 'Documentation',
             items: [
               {
-                label: 'Tutorial',
+                label: 'Getting Started',
                 to: '/docs/intro',
               },
-            ],
-          },
-          {
-            title: 'Community',
-            items: [
               {
-                label: 'Stack Overflow',
-                href: 'https://stackoverflow.com/questions/tagged/docusaurus',
+                label: 'Engineering Notebook',
+                to: '/docs/category/engineering-notebook',
               },
               {
-                label: 'Discord',
-                href: 'https://discordapp.com/invite/docusaurus',
-              },
-              {
-                label: 'X',
-                href: 'https://x.com/docusaurus',
+                label: 'Technical Resources',
+                to: '/docs/category/technical',
               },
             ],
           },
           {
-            title: 'More',
+            title: 'FTC Resources',
             items: [
               {
-                label: 'Blog',
+                label: 'FIRST Tech Challenge',
+                href: 'https://www.firstinspires.org/robotics/ftc',
+              },
+              {
+                label: 'Game Manual',
+                href: 'https://www.firstinspires.org/resource-library/ftc/game-and-season-info',
+              },
+              {
+                label: 'FTC Discord',
+                href: 'https://discord.gg/first-tech-challenge',
+              },
+            ],
+          },
+          {
+            title: 'Connect',
+            items: [
+              {
+                label: 'Team Updates',
                 to: '/blog',
               },
               {
                 label: 'GitHub',
-                href: 'https://github.com/facebook/docusaurus',
+                href: 'https://github.com/AryaVora621/MakEMinds-Documentation',
               },
             ],
           },
         ],
-        copyright: `Copyright © ${new Date().getFullYear()} My Project, Inc. Built with Docusaurus.`,
+        copyright: `Copyright © ${new Date().getFullYear()} FTC Team 23786 MakEMinds. Built with Docusaurus.`,
       },
       prism: {
         theme: prismThemes.github,
