@@ -12,7 +12,7 @@ import {themes as prismThemes} from 'prism-react-renderer';
 const config = {
   title: 'MakEMinds 23786',
   tagline: 'Have fun, raise STEM awareness, and build a robot to do impossible things!',
-  favicon: 'img/favicon.ico',
+  favicon: 'img/logo.png',
 
   // Set the production url of your site here
   url: 'https://makeminds23786.com',
@@ -139,6 +139,11 @@ const config = {
           },
         ],
         copyright: `Copyright © ${new Date().getFullYear()} MakEMinds 23786. Built with Docusaurus.`,
+        logo: {
+          alt: 'MakEMinds Logo',
+          src: 'img/logo.png',
+          href: '/',
+        },
       },
       prism: {
         theme: prismThemes.github,
