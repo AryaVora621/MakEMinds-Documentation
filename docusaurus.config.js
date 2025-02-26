@@ -10,12 +10,12 @@ import {themes as prismThemes} from 'prism-react-renderer';
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: 'MakEMinds #23786',
-  tagline: 'FTC Robotics Team from Edison High School',
+  title: 'MakEMinds 23786',
+  tagline: 'Have fun, raise STEM awareness, and build a robot to do impossible things!',
   favicon: 'img/favicon.ico',
 
   // Set the production url of your site here
-  url: 'https://mak-e-minds-documentation.vercel.app',
+  url: 'https://makeminds23786.com',
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
   baseUrl: '/',
@@ -64,27 +64,42 @@ const config = {
       // Replace with your team's social card
       image: 'img/makeminds-social-card.jpg',
       navbar: {
-        title: 'MakEMinds',
+        title: 'MakEMinds 23786',
         logo: {
           alt: 'MakEMinds Logo',
-          src: 'img/logo.svg',
+          src: 'img/logo.png',
         },
         items: [
           {
             type: 'docSidebar',
             sidebarId: 'tutorialSidebar',
             position: 'left',
-            label: 'Engineering Portfolio',
+            label: 'Portfolio',
           },
           {
-            to: '/engineering-process',
-            label: 'Engineering Process',
-            position: 'left'
+            to: '/docs/about',
+            label: 'About Us',
+            position: 'left',
           },
           {
-            to: '/team-info',
-            label: 'Team Information',
-            position: 'left'
+            to: '/docs/robot/design-process',
+            label: 'Robot',
+            position: 'left',
+          },
+          {
+            to: '/docs/programming/autonomous',
+            label: 'Programming',
+            position: 'left',
+          },
+          {
+            to: '/docs/outreach/initiatives',
+            label: 'Outreach',
+            position: 'left',
+          },
+          {
+            to: '/docs/sustainability/finances',
+            label: 'Sustainability',
+            position: 'left',
           },
           {
             href: 'https://github.com/AryaVora621/MakEMinds-Documentation',
@@ -100,12 +115,12 @@ const config = {
             title: 'Documentation',
             items: [
               {
-                label: 'Engineering Portfolio',
-                to: '/docs/team-info',
+                label: 'Portfolio',
+                to: '/docs/intro',
               },
               {
-                label: 'Engineering Process',
-                to: '/engineering-process',
+                label: 'About Us',
+                to: '/about',
               },
             ],
           },
@@ -113,17 +128,17 @@ const config = {
             title: 'Community',
             items: [
               {
-                label: 'FIRST Tech Challenge',
-                href: 'https://www.firstinspires.org/robotics/ftc',
+                label: 'Instagram',
+                href: 'https://instagram.com/makeminds23786',
               },
               {
-                label: 'Team GitHub',
+                label: 'GitHub',
                 href: 'https://github.com/AryaVora621/MakEMinds-Documentation',
               },
             ],
           },
         ],
-        copyright: `Copyright © ${new Date().getFullYear()} FTC Team 23786 MakEMinds`,
+        copyright: `Copyright © ${new Date().getFullYear()} MakEMinds 23786. Built with Docusaurus.`,
       },
       prism: {
         theme: prismThemes.github,
