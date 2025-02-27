@@ -1,41 +1,77 @@
-# Website
+# MakEMinds 23786 Documentation
 
-This website is built using [Docusaurus](https://docusaurus.io/), a modern static website generator.
+[![Vercel](https://img.shields.io/badge/Powered%20by-Vercel-000000.svg?style=flat-square)](https://vercel.com)
+[![Docusaurus](https://img.shields.io/badge/Built%20with-Docusaurus-green.svg?style=flat-square)](https://docusaurus.io)
+
+Welcome to the official documentation repository for MakEMinds Team 23786. This website serves as our comprehensive team portfolio and documentation hub, showcasing our journey in FIRST Tech Challenge.
+
+## 🚀 Quick Links
+
+- [Live Website](https://makeminds23786.com)
+- [About Our Team](/docs/intro)
+- [Robot Documentation](/docs/robot/design-process)
+- [Programming Guide](/docs/programming/autonomous)
+- [Outreach Initiatives](/docs/outreach/initiatives)
+
+## 🛠️ Development
+
+### Prerequisites
+
+- Node.js (version 18 or higher)
+- npm or yarn package manager
 
 ### Installation
 
-```
-$ yarn
+```bash
+# Clone the repository
+git clone https://github.com/AryaVora621/MakEMinds-Documentation.git
+
+# Navigate to project directory
+cd MakEMinds-Documentation
+
+# Install dependencies
+npm install
 ```
 
 ### Local Development
 
-```
-$ yarn start
-```
-
-This command starts a local development server and opens up a browser window. Most changes are reflected live without having to restart the server.
-
-### Build
-
-```
-$ yarn build
+```bash
+# Start the development server
+npm start
 ```
 
-This command generates static content into the `build` directory and can be served using any static contents hosting service.
+This will start a local development server and open up a browser window. Most changes are reflected live without having to restart the server.
 
-### Deployment
+### Building for Production
 
-Using SSH:
-
-```
-$ USE_SSH=true yarn deploy
-```
-
-Not using SSH:
-
-```
-$ GIT_USER=<Your GitHub username> yarn deploy
+```bash
+# Create a production build
+npm run build
 ```
 
-If you are using GitHub pages for hosting, this command is a convenient way to build the website and push to the `gh-pages` branch.
+This generates static content into the `build` directory that can be served using any static hosting service.
+
+## 📚 Documentation Structure
+
+- `/docs` - Main documentation content
+- `/blog` - Team updates and blog posts
+- `/src` - Source code for custom pages and components
+- `/static` - Static assets (images, files)
+
+## 🤝 Contributing
+
+We welcome contributions from our team members and the FIRST Tech Challenge community. Please feel free to submit issues and pull requests.
+
+## 📝 License
+
+This project is licensed under the MIT License - see the LICENSE file for details.
+
+## 🌟 Acknowledgments
+
+- Built with [Docusaurus](https://docusaurus.io/)
+- Hosted on [Vercel](https://vercel.com)
+- Analytics by Vercel
+- Special thanks to our mentors and sponsors
+
+---
+Made with ❤️ by MakEMinds Team 23786
