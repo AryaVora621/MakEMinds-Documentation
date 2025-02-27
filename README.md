@@ -3,15 +3,22 @@
 [![Vercel](https://img.shields.io/badge/Powered%20by-Vercel-000000.svg?style=flat-square)](https://vercel.com)
 [![Docusaurus](https://img.shields.io/badge/Built%20with-Docusaurus-green.svg?style=flat-square)](https://docusaurus.io)
 
-Welcome to the official documentation repository for MakEMinds Team 23786. This website serves as our comprehensive team portfolio and documentation hub, showcasing our journey in FIRST Tech Challenge.
+Welcome to the official documentation repository for MakEMinds Team 23786. This website serves as our comprehensive team portfolio and documentation hub, showcasing our journey in FIRST Tech Challenge from Upper Central League, Edison Township, NJ.
 
 ## 🚀 Quick Links
 
-- [Live Website](https://makeminds23786.com)
-- [About Our Team](/docs/intro)
-- [Robot Documentation](/docs/robot/design-process)
-- [Programming Guide](/docs/programming/autonomous)
-- [Outreach Initiatives](/docs/outreach/initiatives)
+- [Live Website](https://mak-e-minds-documentation.vercel.app)
+- [About Our Team](https://mak-e-minds-documentation.vercel.app/docs/intro)
+- [Robot Documentation](https://mak-e-minds-documentation.vercel.app/docs/robot/design-process)
+- [Programming Guide](https://mak-e-minds-documentation.vercel.app/docs/programming/autonomous)
+- [Outreach Initiatives](https://mak-e-minds-documentation.vercel.app/docs/outreach/initiatives)
+- [Sustainability](https://mak-e-minds-documentation.vercel.app/docs/sustainability/finances)
+
+## 🤖 About Us
+
+"Have fun, raise STEM awareness, and build a robot to do impossible things!"
+
+We are FTC Team 23786 MakEMinds from the Upper Central League in Edison Township, NJ. Our team is dedicated to innovation, learning, and community outreach through FIRST Tech Challenge.
 
 ## 🛠️ Development
 
@@ -69,9 +76,14 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 ## 🌟 Acknowledgments
 
 - Built with [Docusaurus](https://docusaurus.io/)
-- Hosted on [Vercel](https://vercel.com)
-- Analytics by Vercel
+- Hosted on [Vercel](https://mak-e-minds-documentation.vercel.app)
+- Analytics and Performance Monitoring by Vercel
 - Special thanks to our mentors and sponsors
+
+## 🔗 Connect With Us
+
+- [Instagram](https://instagram.com/makeminds23786)
+- [GitHub](https://github.com/AryaVora621/MakEMinds-Documentation)
 
 ---
 Made with ❤️ by MakEMinds Team 23786
