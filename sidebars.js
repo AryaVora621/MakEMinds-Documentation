@@ -64,6 +64,16 @@ const sidebars = {
         'lessons/challenges',
       ],
     },
+    {
+      type: 'category',
+      label: 'Portfolio Development',
+      items: [
+        'portfolio/overview',
+        'portfolio/interview',
+        'portfolio/content',
+        'portfolio/awards',
+      ],
+    },
   ],
 
   // But you can create a sidebar manually
