@@ -74,10 +74,9 @@ const config = {
         },
         items: [
           {
-            type: 'docSidebar',
-            sidebarId: 'tutorialSidebar',
+            to: '/docs/portfolio/overview',
+            label: 'Portfolio Development',
             position: 'left',
-            label: 'Portfolio',
           },
           {
             to: '/docs/intro',
