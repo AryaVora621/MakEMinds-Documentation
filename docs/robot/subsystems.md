@@ -153,7 +153,7 @@ public class ThreeWheelOdometry {
 ### Quick-Release System
 - **Actuation**: Servo-driven latch mechanism
 - **Hook Design**: Custom aluminum with reinforced mounting
-- **Deployment Time**: <0.5 seconds
+- **Deployment Time**: Less than 0.5 seconds
 
 ### Control Logic
 ```java

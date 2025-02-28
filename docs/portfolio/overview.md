@@ -109,5 +109,4 @@ While external links cannot be included in the portfolio, teams can reference:
 Continue reading our portfolio guide sections for detailed information on:
 - [Portfolio Content Creation](./content.md)
 - [Interview Preparation](./interview.md)
-- [Judging Process](./judging.md)
 - [Award Requirements](./awards.md) 
