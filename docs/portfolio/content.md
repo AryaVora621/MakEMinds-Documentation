@@ -1,191 +1,180 @@
 ---
-sidebar_position: 3
+sidebar_position: 2
 ---
 
-# Portfolio Content Creation
+# Content Creation Guide
 
-## Content Strategy
+:::tip Key Principle
+Great portfolio content tells a compelling story through a perfect blend of narrative, data, and visuals. Every page should serve a purpose and contribute to your team's story.
+:::
 
-### Planning Your Content
-- Define clear objectives for each page
-- Map content to award requirements
-- Create content outline before writing
-- Allocate page count strategically
+## Content Planning Framework 📝
 
-### Content Organization
-- Separate engineering and outreach content
-- Use consistent section structure
-- Create clear visual hierarchy
-- Maintain logical flow
+### 1. Story Architecture
+Create a narrative that flows naturally through your portfolio:
 
-## Writing Guidelines
+```mermaid
+graph LR
+    A[Problem/Challenge] --> B[Process/Journey]
+    B --> C[Solution/Impact]
+    C --> D[Learning/Growth]
+```
 
-### Effective Writing
-- Be specific and detailed
-- Focus on process and growth
-- Use active voice
-- Keep language professional
-- Avoid technical jargon
+### 2. Content Types Matrix
 
-### Content Focus Areas
-1. **Process Documentation**
-   - Show all iterations
-   - Document failures and learnings
-   - Include mathematical analysis
-   - Demonstrate improvement cycles
+| Type | Purpose | Examples |
+|------|----------|----------|
+| Technical | Document engineering decisions | CAD designs, code architecture |
+| Process | Show methodology | Design iterations, testing results |
+| Impact | Demonstrate outcomes | Community reach, competition results |
+| Growth | Highlight development | Skills gained, lessons learned |
 
-2. **Impact Statements**
-   - Quantify results
-   - Show community benefit
-   - Measure improvements
-   - Track progress
+## Writing Guidelines ✍️
 
-3. **Technical Details**
-   - Engineering calculations
-   - Design decisions
-   - Testing results
-   - Performance metrics
+### Voice and Tone
+- **Professional**: Clear, concise language
+- **Active Voice**: "We designed..." vs. "It was designed..."
+- **Engaging**: Use strong verbs and specific examples
+- **Authentic**: Share real experiences and challenges
 
-## Visual Elements
+### Structure Tips
+1. Start with clear objectives
+2. Use descriptive headings
+3. Include topic sentences
+4. Support claims with data
+5. End sections with impact statements
 
-### Essential Graphics
-- Process diagrams
-- CAD renderings
-- Testing data graphs
-- Iteration comparisons
-- Event photos
-- Team structure charts
+## Visual Content Strategy 🎨
 
-### Design Tips
-- Use consistent color scheme
-- Maintain visual hierarchy
-- Include clear labels
-- Keep graphics professional
-- Ensure readability
+### Types of Visuals
 
-## Page Layout
+| Visual Type | Best Used For | Tips |
+|------------|---------------|------|
+| Photographs | Physical progress | Clear, well-lit, focused |
+| Diagrams | Technical concepts | Clean lines, labeled parts |
+| Charts | Data presentation | Clear axes, readable text |
+| Process Maps | Workflows | Logical flow, numbered steps |
 
-### Structure Guidelines
-- Clear headers and subheaders
-- Consistent formatting
-- Balanced text and images
-- White space utilization
-- Professional appearance
+### Design Elements
+- **Color Scheme**: 2-3 primary colors
+- **Typography**: Sans-serif for headings, serif for body
+- **White Space**: 20-30% of page
+- **Alignment**: Consistent grid system
 
-### Typography
-- Minimum 10pt font size
-- Consistent font families
-- Clear hierarchy
-- Limited font variations
-- Professional typefaces
+## Documentation Methods 📸
 
-## Content Sections
+### Real-Time Documentation
+1. **Daily Progress**
+   - Take photos of work sessions
+   - Record meeting minutes
+   - Log design decisions
+   - Track metrics
 
-### Team Section
-- Team structure
-- Work distribution
-- Sustainability plan
-- Growth strategy
-- Knowledge transfer
+2. **Process Recording**
+   - Document iterations
+   - Save failed attempts
+   - Note improvements
+   - Capture feedback
 
-### Engineering Section
-- Design process
-- Iteration documentation
-- Testing procedures
-- Performance data
-- Technical specifications
+### Data Collection
+Track and present:
+- Build hours
+- Test results
+- Competition scores
+- Outreach impact
 
-### Programming Section
-- Code organization
-- Autonomous features
-- Driver assistance
-- Testing results
-- Software architecture
+## Content Organization 📊
 
-### Outreach Section
-- Event documentation
-- Impact metrics
-- Community engagement
-- Growth over time
+### Page Layout Template
+```
+┌─────────────────────┐
+│ Header + Team Info  │
+├─────────────────────┤
+│ Section Title       │
+├────────┬────────────┤
+│ Text   │ Supporting │
+│ Content│ Visual     │
+├────────┴────────────┤
+│ Impact Statement    │
+└─────────────────────┘
+```
+
+### Section Flow
+1. Introduction/Context
+2. Process/Methods
+3. Results/Outcomes
+4. Learning/Next Steps
+
+## Writing Effective Sections 📖
+
+### Technical Documentation
+- Start with problem statement
+- Explain design choices
+- Show iterations
+- Present results
+- Include metrics
+
+### Impact Stories
+- Define initial goal
+- Describe approach
+- Share challenges
+- Present outcomes
 - Future plans
 
-## Documentation Best Practices
+## Quality Control Checklist ✅
 
-### Process Documentation
-- Document all iterations
-- Include failure analysis
-- Show improvement cycles
-- Track progress
-- Measure results
+### Content Review
+- [ ] Clear objectives
+- [ ] Supported claims
+- [ ] Consistent voice
+- [ ] Error-free text
+- [ ] Proper citations
 
-### Impact Documentation
-- Use specific metrics
-- Include testimonials
-- Show growth trends
-- Document reach
-- Measure outcomes
+### Visual Review
+- [ ] Image quality
+- [ ] Chart clarity
+- [ ] Consistent style
+- [ ] Proper labeling
+- [ ] Professional layout
 
-## Content Review
+## Common Pitfalls to Avoid ⚠️
 
-### Quality Checks
-- Spelling and grammar
-- Consistent formatting
-- Image quality
-- Data accuracy
-- Professional appearance
+### Content Issues
+- Vague descriptions
+- Missing data
+- Inconsistent terminology
+- Unexplained acronyms
+- Too much jargon
 
-### Peer Review
-- Team review
-- Mentor feedback
-- External review
-- Iterative improvement
-- Final polish
-
-## Portfolio Assembly
-
-### Organization
-- Logical flow
-- Clear sections
-- Consistent style
-- Professional binding
-- Quality printing
-
-### Final Checks
-- Page count
-- Required elements
-- Award alignment
-- Professional appearance
-- Team approval
-
-## Tips for Success
-
-### Content Tips
-- Show, don't tell
-- Use specific examples
-- Include metrics
-- Document process
-- Demonstrate growth
-
-### Visual Tips
-- Balance text and images
-- Use clear diagrams
-- Include data visualizations
-- Maintain consistency
-- Ensure readability
-
-### Professional Tips
-- Meet all requirements
-- Stay organized
-- Be thorough
-- Show attention to detail
-- Maintain quality
-
-## Common Mistakes to Avoid
-
-- Overcrowding pages
-- Using small fonts
-- Including links/QR codes
-- Missing key requirements
-- Neglecting visual appeal
+### Visual Issues
+- Blurry images
+- Busy backgrounds
+- Unclear diagrams
+- Poor contrast
 - Inconsistent formatting
-- Poor organization 
+
+## Tips for Success 💡
+
+1. **Start Early**
+   - Document from day one
+   - Regular updates
+   - Continuous review
+
+2. **Be Selective**
+   - Quality over quantity
+   - Relevant content only
+   - Strong examples
+
+3. **Show Progress**
+   - Before/after comparisons
+   - Iteration cycles
+   - Growth metrics
+
+4. **Tell Stories**
+   - Personal experiences
+   - Team challenges
+   - Success moments
+
+:::info Remember
+Your portfolio is a living document. Regular updates and refinements will make it stronger and more representative of your team's journey.
+::: 

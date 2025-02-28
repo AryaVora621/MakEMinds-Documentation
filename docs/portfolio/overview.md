@@ -2,111 +2,133 @@
 sidebar_position: 1
 ---
 
-# Engineering Portfolio Overview
+# Creating Your Engineering Portfolio
 
-## Introduction to FTC Portfolios
+:::tip Key Takeaway
+The Engineering Portfolio is your team's opportunity to showcase your journey, achievements, and growth throughout the FTC season. A well-crafted portfolio can make the difference between winning awards and going unnoticed.
+:::
 
-The Engineering Portfolio is a crucial component of the FIRST Tech Challenge competition, serving as a comprehensive documentation of your team's journey, achievements, and growth throughout the season. This guide will help you understand the key components and best practices for creating an award-winning portfolio.
+## Essential Requirements 📋
 
-## Portfolio Quick Facts
-
-- **Page Limit**: 16 pages total (15 content pages + 1 cover page)
+### Page Structure
+- **Total Pages**: 16 pages maximum
+  - 15 pages for content
+  - 1 cover page
 - **Required Elements**:
-  - Team number on cover page (recommended on all pages)
+  - Team number on every page
   - Clear section organization
-  - No youth last names (under 18)
-  - No links/QR codes to online resources
+  - Professional formatting
+  - No youth last names
+  - No external links/QR codes
 
-### Cover Page Requirements
-- **Required Content**:
-  - Team name and number
-  - Table of contents (optional but recommended)
-  - Team motto
-- **Allowed Graphics**:
-  - Organization logos
-  - Sponsor logos
-  - Team logo
-  - Robot/team pictures
+### Cover Page Elements ✨
+Your cover page serves as the first impression. Include:
 
-## Portfolio Structure
+| Required | Optional but Recommended |
+|----------|------------------------|
+| Team name and number | Table of contents |
+| Team motto | Organization logos |
+| Team/robot photo | Sponsor acknowledgments |
 
-### Required Sections
-1. **Team Overview**
-   - Work distribution
-   - Team hierarchy
-   - Sustainability plan (financial and knowledge)
+## Core Portfolio Sections 📚
 
-2. **Engineering Design Process**
-   - Brainstorming
-   - Prototyping
-   - Testing
-   - Improvement cycles
+### 1. Team Overview
+Demonstrate your team's organization and sustainability:
+- Work distribution strategies
+- Leadership structure
+- Financial planning
+- Knowledge transfer systems
 
-3. **Robot Design**
-   - Design iterations
-   - Lessons learned
-   - Mathematical foundations
-   - Current robot features
+### 2. Engineering Process
+Document your systematic approach:
+- Initial brainstorming sessions
+- Prototyping phases
+- Testing methodologies
+- Iterative improvements
 
-4. **Programming & Strategy**
-   - Driver assistance features
-   - Autonomous capabilities
-   - Code organization
-   - Strategic planning
+### 3. Robot Design
+Showcase your technical excellence:
+- Design evolution
+- Mathematical foundations
+- Testing results
+- Final implementation
 
-5. **Outreach & Community Impact**
-   - Reach metrics
-   - Event learnings
-   - Community engagement
-   - Impact assessment
+### 4. Programming & Strategy
+Highlight your software capabilities:
+- Autonomous features
+- Driver assistance systems
+- Code architecture
+- Competition strategy
 
-## Best Practices
+### 5. Community Impact
+Share your outreach efforts:
+- Event participation
+- Community engagement
+- STEM promotion
+- Measurable impact
 
-### Visual Presentation
-- Use bold text sparingly for emphasis on:
-  - Impact statements
-  - Innovation highlights
-  - Key statistics
-  - Reliability metrics
-- Minimum font size: 10pt
-- Consistent color palette
-- Professional appearance
+## Design Best Practices 🎨
 
-### Content Organization
-- Include clear goals
-- Demonstrate growth
-- Use diagrams extensively
-- Show iteration cycles
-- Address award requirements
-- Focus on impact
+### Visual Elements
+Create a professional look with:
+- Consistent color scheme
+- Clear typography (minimum 10pt font)
+- Professional graphics
+- Balanced layout
 
-### Documentation Tips
-- Balance text and visuals
-- Use charts and graphs
-- Include process diagrams
-- Document iterations
-- Show clear progression
+### Content Highlights
+Emphasize key information using:
+- Strategic bold text
+- Impact metrics
+- Innovation highlights
+- Success statistics
 
-## Award Alignment
+### Documentation Guidelines
+Maintain clarity through:
+- Clean section breaks
+- Logical flow
+- Visual hierarchy
+- Professional tone
 
-Different awards require different focus areas in your portfolio:
+## Award Alignment Strategy 🏆
 
-- **Inspire Award**: Overall excellence in all categories
-- **Think Award**: Engineering design process
-- **Design Award**: Robot design and innovation
-- **Control Award**: Programming and automation
-- **Innovate Award**: Creative problem-solving
+Tailor your content for specific awards:
 
-## Resources
+| Award Type | Focus Areas |
+|------------|-------------|
+| Inspire | Overall excellence |
+| Think | Engineering process |
+| Design | Robot innovation |
+| Control | Programming expertise |
+| Innovate | Creative solutions |
 
-While external links cannot be included in the portfolio, teams can reference:
-- Game Manual Part 1
-- Official FIRST documentation
-- Team resources and documentation
+## Portfolio Development Process
+
+1. **Planning Phase**
+   - Define objectives
+   - Outline content
+   - Assign responsibilities
+   - Set timelines
+
+2. **Content Creation**
+   - Document processes
+   - Capture photos/diagrams
+   - Record metrics
+   - Write sections
+
+3. **Review & Refinement**
+   - Team review
+   - Mentor feedback
+   - Content polish
+   - Final assembly
 
 ## Next Steps
 
-Continue reading our portfolio guide sections for detailed information on:
-- [Portfolio Content Creation](./content.md)
+Continue your portfolio journey with our detailed guides:
+- [Content Creation Strategies](./content.md)
 - [Interview Preparation](./interview.md)
-- [Award Requirements](./awards.md) 
+- [Award Requirements](./awards.md)
+
+:::info Pro Tip
+Remember: Your portfolio should tell a compelling story about your team's journey, challenges, and growth throughout the season.
+::: 

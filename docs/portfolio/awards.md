@@ -2,211 +2,242 @@
 sidebar_position: 4
 ---
 
-# Award Requirements Guide
+# FTC Awards Guide
 
-## Inspire Award
+:::tip Key Focus
+Each award has specific criteria that must be met. Your portfolio and interview should strategically address these requirements while authentically representing your team's journey.
+:::
 
-### Overview
-The most prestigious award in FTC, recognizing excellence across all categories.
+## Award Categories Overview 🏆
 
-### Key Requirements
-- Outstanding Engineering Portfolio
-- Team success in robot game
-- Strong outreach program
-- Demonstrated core values
-- Innovation in design
-- Team sustainability plan
+```mermaid
+graph TD
+    A[FTC Awards] --> B[Team Awards]
+    A --> C[Robot Awards]
+    A --> D[Individual Awards]
+    B --> E[Inspire Award]
+    B --> F[Think Award]
+    B --> G[Connect Award]
+    C --> H[Design Award]
+    C --> I[Control Award]
+    C --> J[Innovate Award]
+    D --> K[Compass Award]
+    D --> L[Dean's List]
+```
 
-### Focus Areas
-1. **Team Performance**
-   - Robot game success
-   - Alliance participation
-   - Gracious Professionalism
+## Inspire Award 🌟
 
-2. **Engineering Excellence**
-   - Innovative robot design
-   - Well-documented process
-   - Clear technical strategy
+### Requirements Checklist
+- [ ] Role model team
+- [ ] Strong performance in all award categories
+- [ ] Engineering portfolio
+- [ ] Team interview
+- [ ] Robot performance
 
-3. **Community Impact**
-   - Significant outreach
-   - Measurable impact
-   - Sustainable programs
+### Key Components
+| Category | Requirements | Evidence |
+|----------|--------------|----------|
+| Team | Gracious Professionalism | Interactions, support |
+| Robot | Innovation & performance | Match results, features |
+| Outreach | Community engagement | Events, impact metrics |
+| Portfolio | Documentation quality | Process, organization |
 
-## Think Award
+## Think Award 💭
 
-### Overview
-Recognizes excellence in the Engineering Portfolio and documentation of the team's journey.
+### Engineering Focus
+1. **Engineering Portfolio**
+   - Clear documentation
+   - Design process
+   - Testing methods
+   - Iteration cycles
 
-### Key Requirements
-- Clear engineering design process
-- Well-documented robot evolution
-- Detailed testing procedures
-- Comprehensive portfolio
-- Evidence-based decisions
+2. **Design Journey**
+   - Problem identification
+   - Solution development
+   - Testing results
+   - Improvements
+
+## Design Award 🎨
+
+### Robot Excellence
+1. **Design Elements**
+   - CAD documentation
+   - Physical prototypes
+   - Testing data
+   - Optimization process
+
+2. **Innovation Features**
+   - Unique solutions
+   - Performance metrics
+   - Reliability data
+   - Efficiency measures
+
+## Control Award 🎮
+
+### Software Requirements
+1. **Documentation**
+   - Software architecture
+   - Control systems
+   - Autonomous features
+   - Sensor integration
+
+2. **Key Features**
+   - Autonomous reliability
+   - Driver assistance
+   - Sensor utilization
+   - Code efficiency
+
+## Connect Award 🤝
+
+### Community Impact
+1. **Engagement**
+   - STEM promotion
+   - Community outreach
+   - Team mentoring
+   - Industry connections
+
+2. **Sustainability**
+   - Business plan
+   - Team growth
+   - Resource management
+   - Long-term planning
+
+## Innovate Award 💡
+
+### Innovation Focus
+1. **Creative Solutions**
+   - Unique approaches
+   - Problem-solving
+   - Implementation
+   - Results
+
+2. **Documentation**
+   - Innovation process
+   - Testing data
+   - Performance metrics
+   - Impact assessment
+
+## Portfolio Requirements 📚
+
+### General Structure
+```
+┌─────────────────────┐
+│ Cover Page          │
+├─────────────────────┤
+│ Team Section        │
+├─────────────────────┤
+│ Engineering Process │
+├─────────────────────┤
+│ Robot Design        │
+├─────────────────────┤
+│ Outreach Impact     │
+└─────────────────────┘
+```
+
+### Content Requirements
+1. **Team Information**
+   - Team number
+   - Location
+   - Mission statement
+   - Team photo
+
+2. **Technical Content**
+   - Design process
+   - Engineering data
+   - Testing results
+   - Performance metrics
+
+3. **Impact Documentation**
+   - Outreach events
+   - Community service
+   - STEM promotion
+   - Team growth
+
+## Award Strategy Matrix 📊
 
 ### Documentation Focus
-- Design iterations
-- Testing results
-- Mathematical analysis
-- Process improvements
-- Learning outcomes
 
-## Design Award
+| Award | Primary Focus | Supporting Evidence |
+|-------|--------------|-------------------|
+| Inspire | Overall excellence | All categories |
+| Think | Engineering process | Design iterations |
+| Design | Robot innovation | CAD, prototypes |
+| Control | Software/control | Code architecture |
+| Connect | Community impact | Outreach metrics |
+| Innovate | Creative solutions | Unique features |
 
-### Overview
-Celebrates innovation and excellence in robot design.
+## Success Strategies 💫
 
-### Key Requirements
-- Industrial design elements
-- Form follows function
-- Efficient use of materials
-- Innovation in design
-- Reliability in competition
+### Portfolio Development
+1. **Organization**
+   - Clear structure
+   - Visual appeal
+   - Professional format
+   - Consistent style
 
-### Design Elements
-- CAD documentation
-- Design iterations
-- Performance metrics
-- Innovation features
-- Reliability data
+2. **Content Quality**
+   - Detailed documentation
+   - Data support
+   - Clear graphics
+   - Professional writing
 
-## Control Award
+### Interview Preparation
+1. **Team Presentation**
+   - Award alignment
+   - Key highlights
+   - Team involvement
+   - Professional delivery
 
-### Overview
-Recognizes innovative control elements in robot design and software.
+2. **Q&A Readiness**
+   - Technical knowledge
+   - Impact metrics
+   - Process understanding
+   - Team collaboration
 
-### Key Requirements
-- Advanced software methods
-- Innovative control systems
-- Sensor integration
-- Driver assistance features
-- Well-documented code
+## Common Pitfalls ⚠️
 
-### Technical Focus
-- Software architecture
-- Sensor utilization
-- Control algorithms
-- Autonomous features
-- Code documentation
-
-## Innovate Award
-
-### Overview
-Celebrates creativity and thinking outside the box.
-
-### Key Requirements
-- Creative problem-solving
-- Unique approaches
-- Innovation in design/process
-- Original solutions
-- Effective implementation
-
-### Innovation Areas
-- Design solutions
-- Process improvements
-- Technical approaches
-- Strategy development
-- Resource utilization
-
-## Connect Award
-
-### Overview
-Recognizes connection with the engineering community.
-
-### Key Requirements
-- STEM engagement
-- Professional connections
-- Community outreach
-- Industry partnerships
-- Educational impact
-
-### Documentation Needs
-- Event records
-- Partnership details
-- Impact metrics
-- Future plans
-- Sustainability strategy
-
-## Motivate Award
-
-### Overview
-Celebrates outstanding success in team building and community outreach.
-
-### Key Requirements
-- Team spirit
-- Community involvement
-- FIRST promotion
-- Fundraising success
-- Team development
-
-### Focus Points
-- Team culture
-- Outreach activities
-- Recruitment efforts
-- Sustainability plan
-- Impact measurement
-
-## Portfolio Alignment
-
-### General Tips
-- Tailor content to award criteria
-- Include specific examples
-- Provide clear evidence
-- Show measurable impact
-- Document process thoroughly
-
-### Documentation Strategy
-1. **Core Requirements**
-   - Cover all basics
-   - Meet format guidelines
-   - Include required elements
-
-2. **Award-Specific Content**
-   - Target key criteria
-   - Highlight strengths
-   - Provide evidence
-
-3. **Supporting Materials**
-   - Visual documentation
-   - Data and metrics
-   - Process documentation
-
-## Success Strategies
-
-### Portfolio Organization
-- Clear section labeling
-- Logical content flow
-- Easy navigation
-- Professional presentation
-- Complete coverage
-
-### Content Focus
-- Address all criteria
-- Show clear evidence
-- Document process
-- Demonstrate impact
-- Include metrics
-
-### Best Practices
-- Regular updates
-- Team review
-- External feedback
-- Quality control
-- Professional finish
-
-## Common Pitfalls
-
-### To Avoid
+### Portfolio Issues
 - Missing requirements
-- Incomplete documentation
 - Poor organization
-- Lack of evidence
-- Unclear metrics
+- Lack of data
+- Unclear process
+- Inconsistent format
 
-### To Include
-- Specific examples
-- Clear metrics
-- Visual evidence
-- Process documentation
-- Impact measurements 
+### Interview Mistakes
+- Time management
+- Incomplete answers
+- Technical confusion
+- Poor team involvement
+- Unprofessional behavior
+
+## Best Practices 🎯
+
+### Documentation
+1. **Start Early**
+   - Regular updates
+   - Process photos
+   - Data collection
+   - Team input
+
+2. **Stay Organized**
+   - Clear sections
+   - Consistent format
+   - Easy navigation
+   - Professional look
+
+### Presentation
+1. **Team Preparation**
+   - Role assignments
+   - Practice sessions
+   - Feedback integration
+   - Time management
+
+2. **Professional Delivery**
+   - Clear communication
+   - Team involvement
+   - Visual support
+   - Enthusiasm
+
+:::info Remember
+Awards are recognition of your team's journey and impact. Focus on authentic documentation and presentation of your work rather than just meeting requirements.
+::: 
