@@ -22,13 +22,15 @@ const sidebars = {
       label: 'Team Overview',
       items: [
         'intro',
-        'about',
+        'team-info',
+        'engineering-process',
       ],
     },
     {
       type: 'category',
       label: 'Robot Development',
       items: [
+        'robot/overview',
         'robot/design-process',
         'robot/subsystems',
       ],
@@ -37,6 +39,7 @@ const sidebars = {
       type: 'category',
       label: 'Programming',
       items: [
+        'programming/overview',
         'programming/autonomous',
         'programming/teleop',
       ],
@@ -45,6 +48,7 @@ const sidebars = {
       type: 'category',
       label: 'Outreach & Impact',
       items: [
+        'outreach/overview',
         'outreach/initiatives',
         'outreach/social-media',
       ],
@@ -53,6 +57,7 @@ const sidebars = {
       type: 'category',
       label: 'Sustainability',
       items: [
+        'sustainability/overview',
         'sustainability/finances',
         'sustainability/recruitment',
       ],
