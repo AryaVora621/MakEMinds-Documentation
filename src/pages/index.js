@@ -14,7 +14,7 @@ function HomepageHeader() {
         <Heading as="h1" className="hero__title">
           FTC Team 23786 MakEMinds
         </Heading>
-        <p className="hero__subtitle">Engineering Portfolio 2023-2024</p>
+        <p className="hero__subtitle">Engineering Portfolio 2024-2025</p>
         <div className={styles.buttons}>
           <Link
             className="button button--secondary button--lg"
@@ -31,7 +31,7 @@ export default function Home() {
   return (
     <Layout
       title="FTC Team 23786 MakEMinds"
-      description="Engineering Portfolio for FTC Team 23786 MakEMinds - CENTERSTAGE 2023-2024">
+      description="Engineering Portfolio for FTC Team 23786 MakEMinds - CRESCENDO 2024-2025">
       <HomepageHeader />
       <main>
         <div className={styles.mainContent}>

@@ -19,54 +19,10 @@ const sidebars = {
   tutorialSidebar: [
     {
       type: 'category',
-      label: 'Team Overview',
+      label: 'About Us',
       items: [
         'intro',
         'team-info',
-        'engineering-process',
-      ],
-    },
-    {
-      type: 'category',
-      label: 'Robot Development',
-      items: [
-        'robot/overview',
-        'robot/design-process',
-        'robot/subsystems',
-      ],
-    },
-    {
-      type: 'category',
-      label: 'Programming',
-      items: [
-        'programming/overview',
-        'programming/autonomous',
-        'programming/teleop',
-      ],
-    },
-    {
-      type: 'category',
-      label: 'Outreach & Impact',
-      items: [
-        'outreach/overview',
-        'outreach/initiatives',
-        'outreach/social-media',
-      ],
-    },
-    {
-      type: 'category',
-      label: 'Sustainability',
-      items: [
-        'sustainability/overview',
-        'sustainability/finances',
-        'sustainability/recruitment',
-      ],
-    },
-    {
-      type: 'category',
-      label: 'Lessons Learned',
-      items: [
-        'lessons/challenges',
       ],
     },
     {

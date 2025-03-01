@@ -11,7 +11,7 @@ To inspire innovation in STEM through robotics competition and community engagem
 - [List team members and roles]
 
 ## Season Goals
-1. Develop an innovative and competitive robot for CENTERSTAGE
+1. Develop an innovative and competitive robot for CRESCENDO
 2. Strengthen our engineering documentation practices
 3. Expand our community outreach initiatives
 4. Foster team collaboration and growth

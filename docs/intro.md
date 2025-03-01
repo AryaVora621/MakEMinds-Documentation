@@ -11,7 +11,7 @@ import TabItem from '@theme/TabItem';
 - **Team Number:** 23786
 - **Location:** Edison Township, NJ
 - **Division:** Upper Central League
-- **Season:** 2023-2024
+- **Season:** 2024-2025
 :::
 
 ## 🎯 Our Mission
@@ -24,9 +24,9 @@ import TabItem from '@theme/TabItem';
 <TabItem value="achievements" label="🏆 Achievements" default>
 
 ### Competition Success
-- **🥈 Qualifier 1:** 2nd Place Overall (Highest Score)
-- **🥈 Qualifier 2:** 2nd Place Overall (2nd Highest Score)
-- **🏆 Qualifier 3:** 2nd Place Innovate Award
+- **🥈 Previous Season:** 2nd Place Overall (Highest Score)
+- **🥈 Previous Season:** 2nd Place Overall (2nd Highest Score)
+- **🏆 Previous Season:** 2nd Place Innovate Award
 
 </TabItem>
 <TabItem value="impact" label="🌍 Impact">
