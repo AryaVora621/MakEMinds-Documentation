@@ -68,10 +68,7 @@ Our team is supported by **8 technical mentors**, including 2 FIRST alumni, brin
 ## 🗺️ Quick Navigation
 
 [![About Our Team](https://img.shields.io/badge/🤝-About_Our_Team-blue)](/docs/intro)
-[![Robot Development](https://img.shields.io/badge/🤖-Robot_Development-orange)](/docs/robot/design-process)
-[![Programming](https://img.shields.io/badge/💻-Programming-green)](/docs/programming/autonomous)
-[![Outreach](https://img.shields.io/badge/🌍-Outreach_Initiatives-purple)](/docs/outreach/initiatives)
-[![Sustainability](https://img.shields.io/badge/📈-Sustainability-red)](/docs/sustainability/finances)
+[![Portfolio Development](https://img.shields.io/badge/📝-Portfolio_Development-green)](/docs/portfolio/overview)
 
 :::info 🌟 Join Our Journey
 Follow our progress, learn from our experiences, and join us in making STEM accessible to all!
