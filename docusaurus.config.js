@@ -84,26 +84,6 @@ const config = {
             position: 'left',
           },
           {
-            to: '/docs/robot/design-process',
-            label: 'Robot',
-            position: 'left',
-          },
-          {
-            to: '/docs/programming/autonomous',
-            label: 'Programming',
-            position: 'left',
-          },
-          {
-            to: '/docs/outreach/initiatives',
-            label: 'Outreach',
-            position: 'left',
-          },
-          {
-            to: '/docs/sustainability/finances',
-            label: 'Sustainability',
-            position: 'left',
-          },
-          {
             href: 'https://github.com/AryaVora621/MakEMinds-Documentation',
             label: 'GitHub',
             position: 'right',
@@ -117,12 +97,12 @@ const config = {
             title: 'Documentation',
             items: [
               {
-                label: 'Portfolio',
-                to: '/docs/intro',
+                label: 'Portfolio Development',
+                to: '/docs/portfolio/overview',
               },
               {
-                label: 'Robot',
-                to: '/docs/robot/design-process',
+                label: 'About Us',
+                to: '/docs/intro',
               },
             ],
           },
